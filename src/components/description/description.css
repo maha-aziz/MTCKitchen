@@ -1,0 +1,47 @@
+.description {
+  height: auto;
+  margin-top: 2px;
+}
+.left {
+  flex: 1;
+  max-width: 50%;
+}
+.left img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.right {
+  flex: 1;
+  max-width: 50%;
+  padding: 100px 50px;
+}
+.right p {
+  text-align: left;
+}
+.right .desc {
+  font-family: 'Roboto';
+  font-size: 15px;
+  letter-spacing: 0px;
+  color: #777777;
+  padding-top: 5%;
+  text-align: justify;
+}
+.box {
+  max-width: 100%;
+}
+.description-heading {
+  font-family: 'Helvetica-Bold';
+  font-size: 42px;
+  color: #222222;
+  line-height: 52px;
+  letter-spacing: 0;
+}
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+  .right {
+    padding: 50px 10px;
+  }
+  .description-heading {
+    font-size: 30px;
+  }
+}

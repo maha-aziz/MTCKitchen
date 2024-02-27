@@ -1,0 +1,36 @@
+.reviews {
+  height: auto;
+  background: #eeeeee 0% 0% no-repeat padding-box;
+  text-align: center;
+  padding: 100px 200px;
+}
+.customer-heading {
+  font-family: 'Helvetica-Bold';
+  font-size: 32px;
+  line-height: 42px;
+  letter-spacing: 0;
+  color: #222222;
+}
+.reviews .review-body {
+  padding: 0 220px;
+}
+.reviews .review-text {
+  font-family: 'Helvetica';
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 32px;
+  color: #777777;
+}
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+  .reviews {
+    padding: 50px 0px;
+  }
+}
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+  .reviews {
+    padding: 50px 0px;
+  }
+  .reviews .review-body {
+    padding: 0px 60px;
+  }
+}
