@@ -27,6 +27,7 @@ h3 {
   font-size: 52px;
   line-height: 58px;
   letter-spacing: -1px;
+  overflow-y: hidden;
 }
 div .row {
   padding-left: 17%;
