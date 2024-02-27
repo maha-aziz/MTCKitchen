@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/MTCKitchen/static/css/main.7fbb9575.css",
+    "main.js": "/MTCKitchen/static/js/main.a9afa213.js",
+    "static/media/kitchen.png": "/MTCKitchen/static/media/kitchen.3ed0ee8f3513358dcf15.png",
+    "static/media/dining.png": "/MTCKitchen/static/media/dining.956ee7da95e7c6fed986.png",
+    "static/media/Bitmap-2.png": "/MTCKitchen/static/media/Bitmap-2.6c7bf4df9cc0872a3438.png",
+    "static/media/Bitmap-3.png": "/MTCKitchen/static/media/Bitmap-3.ea4298e28d53020ed4ed.png",
+    "static/media/Bitmap-1.png": "/MTCKitchen/static/media/Bitmap-1.1d844bcadcea144d35ec.png",
+    "static/media/Bitmap.png": "/MTCKitchen/static/media/Bitmap.471357e99ac134e83486.png",
+    "index.html": "/MTCKitchen/index.html",
+    "main.7fbb9575.css.map": "/MTCKitchen/static/css/main.7fbb9575.css.map",
+    "main.a9afa213.js.map": "/MTCKitchen/static/js/main.a9afa213.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fbb9575.css",
+    "static/js/main.a9afa213.js"
+  ]
+}
