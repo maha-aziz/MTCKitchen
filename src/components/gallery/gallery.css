@@ -17,6 +17,7 @@
 }
 .gallery-images {
   transition: transform 0.3s ease-in-out;
+  overflow-y: hidden;
 }
 
 .gallery-images img:hover {
