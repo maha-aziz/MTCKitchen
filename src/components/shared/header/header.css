@@ -44,6 +44,10 @@
 .head .social {
   margin-right: 60px;
 }
+.head .social i {
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
 .toggle {
   display: none;
 }
